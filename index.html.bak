@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Sajeeb Chakraborty</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Sajeeb Chakraborty</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" style="width:300px;height:300px;" src="assets/img/profile.jpeg" alt="..." /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>		 
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#project">Projects</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Sajeeb
+                        <span class="text-primary">Chakraborty</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        Chawkbazar,Chittagong,Bangladesh · (880) 1824072334 ·
+                        <a href="mailto:sajeebchakraborty.cse2000@gmail.com">sajeebchakraborty.cse2000@gmail.com</a>
+                    </div>
+                    <p class="lead mb-5">I am experienced in Laravel frameworks to provide a high secure  website. I am also make a website using PHP,HTML,CSS, JavaScript and MySQL.</p>
+                    <div class="social-icons">
+                        <a class="social-icon" href="https://www.linkedin.com/in/sajeeb-chakraborty-1b944a163/"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="https://github.com/SajeebChakraborty"><i class="fab fa-github"></i></a>
+                        <!--<a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a> -->
+                        <a class="social-icon" href="https://www.facebook.com/sajeeb.chakraborty"><i class="fab fa-facebook-f"></i></a>
+                    </div>
+					<br>
+					<br>
+				
+					  <a href="assets/file/cv.pdf" class="btn btn-danger" download>Download my CV</a>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Full Stack Web Developer (Laravel)</h3>
+                            <div class="subheading mb-3"> <a class="social-icon" href="https://reddevs.com/" style="text-decoration: none;" target="_blank">RedDevs</a></div>
+                            <p>Best communication with team member.Follow MVC pattern.Good performance at OOD(Object Oriented Design)</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">November 2020 - Present</span></div>
+                    </div>
+                  
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">University of Rajshahi</h3>
+                            <div class="subheading mb-3">Bachelor of Science</div>
+                            <div>Computer Science and Engineering</div>
+                            <p>GPA: 3.62</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">February 2018 - January 2023</span></div>
+                    </div>
+                  
+                </div>
+            </section>
+            <hr class="m-0" />
+			
+		
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Skills</h2>
+                    <div class="subheading mb-3">Programming Languages & Tools</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fab fa-html5"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
+    
+                        <li class="list-inline-item"><i class="fab fa-laravel"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-python"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
+
+                        <li class="list-inline-item"><i class="fab fa-npm"></i></li>
+                    </ul>
+                    <div class="subheading mb-3">Workflow</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Mobile-First, Responsive Design
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Cross Browser Testing & Debugging
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Cross Functional Teams
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Agile Development & Scrum
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+			
+				<!--Project-->
+			
+			 <section class="resume-section" id="project">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Projects</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <div class="card-group">
+							  <div class="card">
+								<img class="card-img-top" src="assets/img/p-1.png" alt="Card image cap">
+								<div class="card-body">
+								  <h5 class="card-title">Online Railway Ticket System</h5>
+								  <p class="card-text">This ticketing system collects and manages all customer support interactions from different platforms, including phone, live chat, email, and social media. This management system enables IT, support agents, to route various types of tickets to the correct person, resource, or department to obtain the fastest resolution.</p>
+								  
+								  <a href="#" class="btn btn-success">View Demo</a>
+								</div>
+							  </div>
+							  <div class="card">
+								<img class="card-img-top" src="assets/img/p-2.png" alt="Card image cap">
+								<div class="card-body">
+								  <h5 class="card-title">Advance Institute Management System</h5>
+								  <p class="card-text">AIMS is a full Educational Institution management software. You will find everything you need to run your Institution digitally.</p>
+							
+								  <a href="http://aims.skilldevs.net/" class="btn btn-success" target="_blank">View Demo</a>
+								</div>
+							  </div>
+							  <div class="card">
+								<img class="card-img-top" src="assets/img/p-3.png" alt="Card image cap">
+								<div class="card-body">
+								  <h5 class="card-title">Online Quiz & Assignment System</h5>
+								  <p class="card-text">This Quiz & Assignment Management System is an online application, from which user can easily manage Academic details, Performance details, Quiz details, Assignment details. Admin can track all the information of Academic, Score, Performance ect. Admin can edit, add, delete and update the records of Quiz & Assignment</p>
+								
+								  <a href="#" class="btn btn-success">View Demo</a>
+								</div>
+							  </div>
+							</div>
+						 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <div class="card-group">
+							  <div class="card">
+								<img class="card-img-top" src="assets/img/p-4.png" alt="Card image cap">
+								<div class="card-body">
+								  <h5 class="card-title">Library Management System</h5>
+								  <p class="card-text">This library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.</p>
+								  <a href="http://seminar-library-cse-ru.infinityfreeapp.com/" class="btn btn-success" target="_blank">View Demo</a>
+								</div>
+							  </div>
+							  <div class="card">
+								<img class="card-img-top" src="assets/img/p-2.png" alt="Card image cap">
+								<div class="card-body">
+								  <h5 class="card-title">Advance Coaching Management System</h5>
+								  <p class="card-text">Advance Coaching Management System is a full Educational management software. You will find everything you need to run your Institution digitally.</p>
+								  <a href="#" class="btn btn-success">View Demo</a>
+								</div>
+							  </div>
+							  <div class="card">
+								<img class="card-img-top" src="assets/img/p-6.png" alt="Card image cap">
+								<div class="card-body">
+								  <h5 class="card-title">Smart Shop</h5>
+								  <p class="card-text">A website that allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location. Through an e-commerce website, a business can process orders, accept payments, manage shipping and logistics, and provide customer service</p>
+								
+								   <a href="#" class="btn btn-success">View Demo</a>
+								</div>
+							  </div>
+							</div>
+                        </div>
+                     
+                    </div>
+                  
+                </div>
+            </section>
+			
+			  <hr class="m-0" />
+			
+			
+			
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Interests</h2>
+                  <ul>
+					  <li>Making or listening to music</li>
+					  <li>Gaming</li>
+					  <li>Travel</li>
+					</ul>  
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Awards & Certifications</h2>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Google Cloud Platform Fundamentals: Core Infrastructure - Coursera
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Introduction to Web Development - Coursera
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                           
+                            Cybersecurity Roles, Processes & Operating System Security - Coursera
+                        </li>
+                     
+                     
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
